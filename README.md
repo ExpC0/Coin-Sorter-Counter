@@ -16,7 +16,7 @@ A flowchart which shows step by step working procedure .
 
 ![Screenshot (13)](https://github.com/ashfaq099/Coin-Sorter-Counter/assets/126937098/b56b01c1-c775-4395-81e3-b21d28f58f13)
 
-# Vedio
+# video
 
 
 https://drive.google.com/file/d/1uMKzGrdwOx5_AUYzG2w1eu-RinBB1GXB/view?usp=sharing
