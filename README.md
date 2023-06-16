@@ -8,9 +8,7 @@ The benefits of  this project are-
 
 The coin sorting and counting system  can be integrated into vending machines that accept coins as payment. It can automate the process of sorting and counting coins, saving time and effort for bank tellers. It ensures accurate coin deposit and withdrawal transactions, facilitating smooth operations.Coin-operated gaming and entertainment centers like Arcade Centers and Casinos can use coin sorting and counting systems to streamline the process of collecting and managing tokens or game credits.
 
-Here is a detailed info about our project
 
-https://drive.google.com/drive/folders/15Glt3iOSNHac5Uil7EXcHq-MCtmMKPKi?usp=sharing
 
 # Working Principle
 
@@ -21,6 +19,9 @@ A flowchart which shows step by step working procedure .
 # Vedio
 
 
+https://drive.google.com/file/d/1uMKzGrdwOx5_AUYzG2w1eu-RinBB1GXB/view?usp=sharing
+
+
 
 # Images
 
@@ -28,7 +29,9 @@ The structure of the project
 
 ![IMG_20230606_120408](https://github.com/ashfaq099/Coin-Sorter-Counter/assets/126937098/26f93ba9-260b-45f0-9b01-16e1223f3975)
 
+
 # Documentation 
+
 
 Here is the detailed documentation:
 
