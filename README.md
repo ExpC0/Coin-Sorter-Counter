@@ -3,6 +3,11 @@ Coin Sorter &amp; Counter is an academic project for the course entitled "CSE 31
 
 # Descriptions
 The Coin Sorter & Counter project is an Arduino-based system that allows you to sort and count different denominations of coins automatically. The project utilizes servo motors, micro switches,  3 IR sensors to count the coins, an LCD display to display counting, and a buzzer to provide a user-friendly interface.
+
+The benefits of  this project are- 
+
+The coin sorting and counting system  can be integrated into vending machines that accept coins as payment. It can automate the process of sorting and counting coins, saving time and effort for bank tellers. It ensures accurate coin deposit and withdrawal transactions, facilitating smooth operations.Coin-operated gaming and entertainment centers like Arcade Centers and Casinos can use coin sorting and counting systems to streamline the process of collecting and managing tokens or game credits.
+
 Here is a detailed info about our project
 
 https://drive.google.com/drive/folders/15Glt3iOSNHac5Uil7EXcHq-MCtmMKPKi?usp=sharing
