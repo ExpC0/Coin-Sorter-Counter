@@ -24,3 +24,8 @@ The structure of the project
 
 ![IMG_20230606_120408](https://github.com/ashfaq099/Coin-Sorter-Counter/assets/126937098/26f93ba9-260b-45f0-9b01-16e1223f3975)
 
+# Documentation 
+
+Here is the detailed documentation:
+
+[Report on Project__Coin Sorter&Counter.pdf](https://github.com/ashfaq099/Coin-Sorter-Counter/files/11767125/Report.on.Project__Coin.Sorter.Counter.pdf)
