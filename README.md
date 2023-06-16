@@ -16,5 +16,5 @@ https://drive.google.com/drive/folders/15Glt3iOSNHac5Uil7EXcHq-MCtmMKPKi?usp=sha
 
 A flowchart which shows step by step working procedure .
 
-![Screenshot (13)](https://github.com/ashfaq099/Coin-Sorter-Counter/assets/126937098/2d7a693b-2ef3-436a-9dd3-dd06d2b8b0be)
+
 
