@@ -1,5 +1,5 @@
 # Coin-Sorter-Counter
-Coin Sorter &amp; Counter is an academic project for the course entitled "CSE 3104: Peripherals and Interfacing Laboratory". 
+Coin Sorter &amp; Counter is an academic project for the course entitled "CSE 3104: Peripherals and Interfacing Laboratory" 
 By Ashfaqur Rahman and Md. Raduan Islam Rian
 
 # Descriptions
