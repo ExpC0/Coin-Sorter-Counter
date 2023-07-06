@@ -1,6 +1,7 @@
 # Coin-Sorter-Counter
-Coin Sorter &amp; Counter is an academic project for the course entitled "CSE 3104: Peripherals and Interfacing Laboratory" 
-## By Ashfaqur Rahman and Md. Raduan Islam Rian
+Coin Sorter &amp; Counter is an academic project for the course entitled "CSE 3104: Peripherals and Interfacing Laboratory" By 
+## Ashfaqur Rahman  
+## Md. Raduan Islam Rian
 
 # Descriptions
 The Coin Sorter & Counter project is an Arduino-based system that allows you to sort and count different denominations of coins automatically. The project utilizes servo motors, micro switches,  3 IR sensors to count the coins, an LCD display to display counting, and a buzzer to provide a user-friendly interface.
